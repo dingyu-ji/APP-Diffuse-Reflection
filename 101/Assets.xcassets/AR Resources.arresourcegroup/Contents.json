@@ -1,0 +1,35 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "天坛.arreferenceimage"
+    },
+    {
+      "filename" : "天安门.arreferenceimage"
+    },
+    {
+      "filename" : "宫灯.arreferenceimage"
+    },
+    {
+      "filename" : "故宫.arreferenceimage"
+    },
+    {
+      "filename" : "景1.arreferenceimage"
+    },
+    {
+      "filename" : "景山公园.arreferenceimage"
+    },
+    {
+      "filename" : "永定门.arreferenceimage"
+    },
+    {
+      "filename" : "祥云.arreferenceimage"
+    },
+    {
+      "filename" : "铛铛车.arreferenceimage"
+    }
+  ]
+}
